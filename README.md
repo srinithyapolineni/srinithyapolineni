@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [AI Interview Preparation Platform](https://github.com/srinithyapolineni/AI-Interview-Preparation)
 
-- 🌱 I’m currently learning **AWS, Docker, Kubernetes, System Design**
+-🌱 I’m currently learning Data Structures & Algorithms, SQL, Power BI, AWS, and Machine Learning
 
 - 👯 I’m looking to collaborate on **AI/ML and Cloud-based projects**
 
